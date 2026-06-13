@@ -1,10 +1,8 @@
 # Kelechi-happiness-Uzoma-
 resp
-# 👩‍💻 Kelechi Happiness Uzoma — Aspiring SOC Analyst
-
-> *“Driven to protect people’s digital security and financial wellbeing through technology, analysis, and continuous learning.”*
-
------
+# 👩‍💻 Kelechi Happiness Uzoma 
+Aspiring SOC Analyst
+Driven to protect people’s digital security and financial wellbeing through technology, analysis, and continuous learning.”*
 
 ## 👋 About Me
 
